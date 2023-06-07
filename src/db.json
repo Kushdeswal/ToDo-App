@@ -1,0 +1,32 @@
+{
+  "todo": [
+   
+    {
+      "todo": " A",
+      "status": "Completed",
+      "assignedTym": "10:55:02 AM",
+      "assignedDate": "6/7/2023",
+      "finalizeTym": "10:55:02 AM",
+      "finalizeDate": "6/7/2023",
+      "id": 3
+    },
+    {
+      "todo": " B",
+      "status": "Pending",
+      "assignedTym": "10:55:02 AM",
+      "assignedDate": "6/7/2023",
+      "finalizeTym": "=",
+      "finalizeDate": "=",
+      "id": 4
+    },
+    {
+      "todo": " C",
+      "status": "Pending",
+      "assignedTym": "10:55:02 AM",
+      "assignedDate": "6/7/2023",
+      "finalizeTym": "=",
+      "finalizeDate": "=",
+      "id": 5
+    }
+  ]
+}

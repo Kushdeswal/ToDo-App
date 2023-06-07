@@ -1,0 +1,13 @@
+.red{
+    color: #FF0000;
+	text-shadow: rgba(163, 163, 163, 0.41) 1px 3px 0px;
+}
+.green{
+    color: #1dac3e;
+	text-shadow: rgba(163, 163, 163, 0.41) 1px 3px 0px;
+
+}
+.line{
+    text-decoration:line-through ;
+    
+}
